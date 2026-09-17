@@ -48,23 +48,23 @@ B.S. in Mathematics - Applied Sciences | September 2016 - June 2020
 
 ## Experience
 
+**Salk Institute for Biological Studies** | Graduate Student Researcher | January 2022–present
+
+Diana Hargreaves Lab | San Diego, CA
+
+Investigate how SWI/SNF chromatin remodeling regulates tumor-intrinsic immunity and therapeutic response. Combine CRISPR perturbations, genomic and epigenomic profiling, and mouse tumor models to study ARID1A–cGAS–STING signaling and therapeutic vulnerabilities involving SWI/SNF, KRAS, and immune checkpoint blockade in pancreatic cancer.
+
 **Genentech** | Research Oncology Intern | June–September 2026
 
 Fred de Sauvage Lab | South San Francisco, CA
 
-- Screened targeted-therapy combinations across genetically diverse colorectal cancer cell lines using live-cell imaging, endpoint viability, and colony-formation assays.
-- Validated a compensatory transcriptional program nominated by chromatin accessibility and RNA-seq data; co-targeting the program deepened growth suppression beyond single-agent treatment.
-- Confirmed bidirectional signaling crosstalk in previously untested cell backgrounds and validated a candidate transcriptional regulator of the switch.
-- Used selectivity panels and off-target-matched controls to establish that a promising combination effect was restricted to one genetic background, helping redirect project priorities.
+Screened targeted-therapy combinations in genetically diverse colorectal cancer models. Validated compensatory transcriptional programs and signaling crosstalk using functional assays and genomic data, and applied selectivity controls to distinguish effects specific to a genetic background and guide project priorities.
 
+**Sanford Burnham Prebys Medical Discovery Institute** | Research Associate / Lab Manager | August 2020–August 2021
 
-**Salk Institute for Biological Studies** | Doctoral research, Hargreaves laboratory
+Crystal Zhao Lab | San Diego, CA
 
-Research on chromatin remodeling, innate immunity, and cancer immunotherapy as part of my UC San Diego PhD training.
-
-**Sanford Burnham Prebys Medical Discovery Institute** | Research Assistant | August 2020–July 2021
-
-Research in Crystal Zhao's laboratory.
+Developed cell-based reporters to study protein interactions and identify therapeutic targets, and investigated RNA-binding proteins in post-transcriptional gene regulation. Maintained stem-cell and patient-derived culture models while coordinating laboratory resources and inventory to support day-to-day research operations.
 
 ## Leadership & service
 
