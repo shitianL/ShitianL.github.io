@@ -1,9 +1,9 @@
 ---
 title: "Shitian Li"
-image: "IMG_9239.jpg"
+image: "IMG_9239.JPG"
 links:
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/shitian-steven-li//"
+    url: "https://www.linkedin.com/in/shitian-steven-li/"
   - label: Twitter
     url: "https://twitter.com/ShitianLiLOL"
   - label: GitHub
@@ -16,13 +16,31 @@ output:
  
 ## Bio
 
-TBD
+I am a PhD candidate in Biological Sciences at UC San Diego, conducting my research in Diana Hargreaves' laboratory at the Salk Institute for Biological Studies. My work explores how chromatin regulation shapes tumor immunity and responses to cancer immunotherapy.
+
+My research focuses on the SWI/SNF chromatin remodeling complex, innate immune signaling, and mechanisms of resistance to immune activation. My background in bioengineering and applied mathematics informs how I approach biological questions and analyze data.
+
+Beyond the lab, I have been involved in graduate student leadership, mentoring, and the life sciences consulting and entrepreneurship communities.
+
+## Research
+
+**Chromatin regulation and tumor immunity.** I contributed to work showing how ARID1A loss activates an R-loop-mediated STING–type I interferon response and promotes anti-tumor immunity, published in *Cell* in 2024.
+
+**Resistance to immune activation.** My AACR 2025 abstract with Diana Hargreaves examines MYC-mediated resistance to immune activation following SWI/SNF mutation or chemical inhibition.
+
+## Selected publications & presentations
+
+- **Li S**, Hargreaves D. [MYC-mediated resistance to immune activation by SWI/SNF mutation or chemical inhibition](https://doi.org/10.1158/1538-7445.AM2025-4849). *Cancer Research* 85 (8 Suppl), Abstract 4849 (2025). AACR Annual Meeting conference abstract.
+- Maxwell MB, Hom-Tedla MS, Yi J, **Li S**, et al. [ARID1A suppresses R-loop-mediated STING-type I interferon pathway activation of anti-tumor immunity](https://doi.org/10.1016/j.cell.2024.04.025). *Cell* 187, 3390–3408.e19 (2024).
+- Peng Q, Weng K, **Li S**, Xu R, Wang Y, Wu Y. [A Perspective of Epigenetic Regulation in Radiotherapy](https://doi.org/10.3389/fcell.2021.624312). *Frontiers in Cell and Developmental Biology* 9, 624312 (2021).
 
 ## Education
 
-**University of California - San Diego** | La Jolla, CA
+**University of California San Diego** | La Jolla, CA
 
-Ph.D. in Biological Sciences | September 2021 - June 2027
+PhD in Biological Sciences | 2021–2027 (expected)
+
+Research laboratory: Diana Hargreaves, Salk Institute for Biological Studies
 
 B.S. in Bioengineering: Biotechnology | September 2016 - June 2020
 
@@ -30,4 +48,25 @@ B.S. in Mathematics - Applied Sciences | September 2016 - June 2020
 
 ## Experience
 
-**SBP Medical Discovery Institute** | Research Assistant | August 2020 - July 2021
+**Salk Institute for Biological Studies** | Doctoral research, Hargreaves laboratory
+
+Research on chromatin remodeling, innate immunity, and cancer immunotherapy as part of my UC San Diego PhD training.
+
+**Sanford Burnham Prebys Medical Discovery Institute** | Research Assistant | August 2020–July 2021
+
+Research in Crystal Zhao's laboratory.
+
+## Leadership & service
+
+- VP External, APD Consulting Club
+- Operations, Nucleate San Diego
+- First- and second-year representative, Biological Sciences Graduate Student Council
+- Biological Sciences PhD admissions reviewer
+- Salk SURF mentor (2023) and application reviewer (2024)
+
+## Selected honors
+
+- UC San Diego BioSci Travel and Professional Award (2026)
+- AACR–Sanofi Scholar-in-Training Award (2025)
+- AAI Introductory Course in Immunology Travel Grant (2025)
+- Salk Cancer Center Travel Award (2024)
