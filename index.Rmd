@@ -5,11 +5,13 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/shitian-steven-li/"
   - label: Twitter
-    url: "https://twitter.com/ShitianLiLOL"
+    url: "https://x.com/ShitianLi97"
+  - label: Instagram
+    url: "https://www.instagram.com/Shitianlissl/"
   - label: GitHub
     url: "https://github.com/shitianL"
   - label: Email
-    url: "mailto:shl439@ucsd.edu"
+    url: "mailto:shitianli97@gmail.com"
 output:
   postcards::trestles
 ---
