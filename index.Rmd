@@ -1,6 +1,6 @@
 ---
 title: "Shitian Li"
-image: "IMG_9239.JPG"
+image: "profile.png"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/shitian-steven-li/"
@@ -47,6 +47,16 @@ B.S. in Bioengineering: Biotechnology | September 2016 - June 2020
 B.S. in Mathematics - Applied Sciences | September 2016 - June 2020
 
 ## Experience
+
+**Genentech** | Research Oncology Intern | June–September 2026
+
+Fred de Sauvage Lab | South San Francisco, CA
+
+- Screened targeted-therapy combinations across genetically diverse colorectal cancer cell lines using live-cell imaging, endpoint viability, and colony-formation assays.
+- Validated a compensatory transcriptional program nominated by chromatin accessibility and RNA-seq data; co-targeting the program deepened growth suppression beyond single-agent treatment.
+- Confirmed bidirectional signaling crosstalk in previously untested cell backgrounds and validated a candidate transcriptional regulator of the switch.
+- Used selectivity panels and off-target-matched controls to establish that a promising combination effect was restricted to one genetic background, helping redirect project priorities.
+
 
 **Salk Institute for Biological Studies** | Doctoral research, Hargreaves laboratory
 
